@@ -1,6 +1,6 @@
 from enum import Enum, auto
 from collections import namedtuple
-from benchmarl import debug_decorator
+from src.benchmarl import debug_decorator
 
 
 Salary = namedtuple(typename='Salary',
